@@ -20,7 +20,7 @@ CalFac.py flux_influenceVSradius.txt
 python CalFac.py
 
 ## Cite the code
-Please cite `Fan, Ranga-Ram 2019’ if you find this code useful in your research. 
-You can find a preprint of the paper at  
-The bibtex entry for this paper, thanks to NASA ADS, is
+Please cite `Fan, Ranga-Ram Chary, and Ji-Feng Liu, 2019’ if you find this code useful in your research. 
+A BibTex citation will be updated when the work is accepted.   
+
 
