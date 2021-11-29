@@ -20,7 +20,6 @@ CalFac.py flux_influenceVSradius.txt
 python CalFac.py
 
 ## Cite the code
-Please cite `Fan, Ranga-Ram Chary, and Ji-Feng Liu, 2019’ if you find this code useful in your research. 
-A BibTex citation will be updated when the work is accepted.   
+Please cite `Yang, F., Chary, R.-R., & Liu, J.-F. 2020a, ApJ, Accepted, arXiv:2012.08744’ if you find this code useful in your research.   
 
 
